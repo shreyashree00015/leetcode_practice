@@ -33,4 +33,8 @@ Me practicing Leetcode problems and keeping a track of my streak
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shreyashree00015/leetcode_practice/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/shreyashree00015/leetcode_practice/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
