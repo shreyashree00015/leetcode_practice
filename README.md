@@ -17,6 +17,7 @@ Me practicing Leetcode problems and keeping a track of my streak
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyashree00015/leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shreyashree00015/leetcode_practice/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/shreyashree00015/leetcode_practice/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/shreyashree00015/leetcode_practice/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -38,6 +39,7 @@ Me practicing Leetcode problems and keeping a track of my streak
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/shreyashree00015/leetcode_practice/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/shreyashree00015/leetcode_practice/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
