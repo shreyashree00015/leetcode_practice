@@ -4,7 +4,8 @@ class Solution:
         for i in s:
             if i.isalnum():
                 s2+=i.lower()
-        if s2[0::1]==s2[::-1]:
+        
+        if (s2[::-1]==s2):
             return True
         else:
             return False
