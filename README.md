@@ -9,6 +9,7 @@ Me practicing Leetcode problems and keeping a track of my streak
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyashree00015/leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shreyashree00015/leetcode_practice/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/shreyashree00015/leetcode_practice/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyashree00015/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/shreyashree00015/leetcode_practice/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
@@ -37,4 +38,8 @@ Me practicing Leetcode problems and keeping a track of my streak
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/shreyashree00015/leetcode_practice/tree/master/0058-length-of-last-word) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyashree00015/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
