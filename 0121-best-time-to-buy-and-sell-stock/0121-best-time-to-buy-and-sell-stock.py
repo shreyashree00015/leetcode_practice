@@ -3,7 +3,6 @@ class Solution:
         least_val = inf
         max_profit = 0
         for i in prices:
-            min_val = least_val
             least_val = min(i,least_val)
             current_profit = i-least_val
             max_profit = max(max_profit,current_profit)
