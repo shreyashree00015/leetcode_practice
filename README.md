@@ -12,6 +12,7 @@ Me practicing Leetcode problems and keeping a track of my streak
 | [0088-merge-sorted-array](https://github.com/shreyashree00015/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyashree00015/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/shreyashree00015/leetcode_practice/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/shreyashree00015/leetcode_practice/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,6 +21,7 @@ Me practicing Leetcode problems and keeping a track of my streak
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shreyashree00015/leetcode_practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shreyashree00015/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shreyashree00015/leetcode_practice/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/shreyashree00015/leetcode_practice/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/shreyashree00015/leetcode_practice/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
@@ -49,4 +51,8 @@ Me practicing Leetcode problems and keeping a track of my streak
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyashree00015/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/shreyashree00015/leetcode_practice/tree/master/0392-is-subsequence) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/shreyashree00015/leetcode_practice/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
