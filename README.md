@@ -32,6 +32,7 @@ Me practicing Leetcode problems and keeping a track of my streak
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shreyashree00015/leetcode_practice/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/shreyashree00015/leetcode_practice/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -44,6 +45,7 @@ Me practicing Leetcode problems and keeping a track of my streak
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shreyashree00015/leetcode_practice/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/shreyashree00015/leetcode_practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/shreyashree00015/leetcode_practice/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/shreyashree00015/leetcode_practice/tree/master/0392-is-subsequence) |
@@ -56,6 +58,7 @@ Me practicing Leetcode problems and keeping a track of my streak
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shreyashree00015/leetcode_practice/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/shreyashree00015/leetcode_practice/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
