@@ -27,6 +27,7 @@ Me practicing Leetcode problems and keeping a track of my streak
 | [0151-reverse-words-in-a-string](https://github.com/shreyashree00015/leetcode_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/shreyashree00015/leetcode_practice/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/shreyashree00015/leetcode_practice/tree/master/0392-is-subsequence) |
+| [2481-strictly-palindromic-number](https://github.com/shreyashree00015/leetcode_practice/tree/master/2481-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
@@ -66,6 +67,7 @@ Me practicing Leetcode problems and keeping a track of my streak
 | ------- |
 | [0013-roman-to-integer](https://github.com/shreyashree00015/leetcode_practice/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/shreyashree00015/leetcode_practice/tree/master/0189-rotate-array) |
+| [2481-strictly-palindromic-number](https://github.com/shreyashree00015/leetcode_practice/tree/master/2481-strictly-palindromic-number) |
 ## Greedy
 |  |
 | ------- |
@@ -78,4 +80,8 @@ Me practicing Leetcode problems and keeping a track of my streak
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shreyashree00015/leetcode_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/shreyashree00015/leetcode_practice/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
