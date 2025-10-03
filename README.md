@@ -9,6 +9,7 @@ Me practicing Leetcode problems and keeping a track of my streak
 | [0014-longest-common-prefix](https://github.com/shreyashree00015/leetcode_practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyashree00015/leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shreyashree00015/leetcode_practice/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/shreyashree00015/leetcode_practice/tree/master/0045-jump-game-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shreyashree00015/leetcode_practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shreyashree00015/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyashree00015/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -59,6 +60,7 @@ Me practicing Leetcode problems and keeping a track of my streak
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/shreyashree00015/leetcode_practice/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyashree00015/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shreyashree00015/leetcode_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/shreyashree00015/leetcode_practice/tree/master/0392-is-subsequence) |
@@ -71,6 +73,7 @@ Me practicing Leetcode problems and keeping a track of my streak
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/shreyashree00015/leetcode_practice/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shreyashree00015/leetcode_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Trie
 |  |
