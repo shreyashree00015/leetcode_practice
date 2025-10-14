@@ -16,6 +16,7 @@ Me practicing Leetcode problems and keeping a track of my streak
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shreyashree00015/leetcode_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/shreyashree00015/leetcode_practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shreyashree00015/leetcode_practice/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/shreyashree00015/leetcode_practice/tree/master/0274-h-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,6 +35,7 @@ Me practicing Leetcode problems and keeping a track of my streak
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shreyashree00015/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shreyashree00015/leetcode_practice/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/shreyashree00015/leetcode_practice/tree/master/0274-h-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,4 +89,8 @@ Me practicing Leetcode problems and keeping a track of my streak
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/shreyashree00015/leetcode_practice/tree/master/2481-strictly-palindromic-number) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/shreyashree00015/leetcode_practice/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
