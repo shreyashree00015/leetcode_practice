@@ -17,6 +17,7 @@ Me practicing Leetcode problems and keeping a track of my streak
 | [0169-majority-element](https://github.com/shreyashree00015/leetcode_practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shreyashree00015/leetcode_practice/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/shreyashree00015/leetcode_practice/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/shreyashree00015/leetcode_practice/tree/master/0380-insert-delete-getrandom-o1) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Me practicing Leetcode problems and keeping a track of my streak
 | ------- |
 | [0013-roman-to-integer](https://github.com/shreyashree00015/leetcode_practice/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/shreyashree00015/leetcode_practice/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/shreyashree00015/leetcode_practice/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -71,6 +73,7 @@ Me practicing Leetcode problems and keeping a track of my streak
 | ------- |
 | [0013-roman-to-integer](https://github.com/shreyashree00015/leetcode_practice/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/shreyashree00015/leetcode_practice/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/shreyashree00015/leetcode_practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [2481-strictly-palindromic-number](https://github.com/shreyashree00015/leetcode_practice/tree/master/2481-strictly-palindromic-number) |
 ## Greedy
 |  |
@@ -93,4 +96,12 @@ Me practicing Leetcode problems and keeping a track of my streak
 |  |
 | ------- |
 | [0274-h-index](https://github.com/shreyashree00015/leetcode_practice/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/shreyashree00015/leetcode_practice/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/shreyashree00015/leetcode_practice/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
