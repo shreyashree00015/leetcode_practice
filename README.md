@@ -31,6 +31,7 @@ Me practicing Leetcode problems and keeping a track of my streak
 | [0151-reverse-words-in-a-string](https://github.com/shreyashree00015/leetcode_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/shreyashree00015/leetcode_practice/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/shreyashree00015/leetcode_practice/tree/master/0392-is-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/shreyashree00015/leetcode_practice/tree/master/1768-merge-strings-alternately) |
 | [2481-strictly-palindromic-number](https://github.com/shreyashree00015/leetcode_practice/tree/master/2481-strictly-palindromic-number) |
 ## Sorting
 |  |
@@ -62,6 +63,7 @@ Me practicing Leetcode problems and keeping a track of my streak
 | [0125-valid-palindrome](https://github.com/shreyashree00015/leetcode_practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shreyashree00015/leetcode_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/shreyashree00015/leetcode_practice/tree/master/0392-is-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/shreyashree00015/leetcode_practice/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
