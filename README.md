@@ -19,6 +19,7 @@ Me practicing Leetcode problems and keeping a track of my streak
 | [0238-product-of-array-except-self](https://github.com/shreyashree00015/leetcode_practice/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/shreyashree00015/leetcode_practice/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shreyashree00015/leetcode_practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/shreyashree00015/leetcode_practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
 | ------- |
